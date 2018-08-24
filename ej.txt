@@ -4,4 +4,7 @@ Incorporar las espinacas, salpimentar y rehogar hasta que se pongan tiernas añad
 Batir los huevos y echarlos en la sartén.
 Dejar que cuaje un poco la base.
 Meter también las rebanadas de pan junto con las milhojas de manzana con salmón y roquefort para que estén tostaditas en el momento de servir.
+
+MODIFICACION DESDE RAMA MASTER
+
 Trocear y calentar el camembert en el microondas para añadir el queso por encima cuando la tortilla ya este hecha y emplatada.
